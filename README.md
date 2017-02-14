@@ -12,4 +12,5 @@
 
 >There is no Japen / Taiwan Exchange Rate. So I use Taiwan / U.S. Foreign Exchange Rate and Japen / U.S. Foreign Exchange Rate to calculate it.
 
-![GITHUB](https://github.com/chelomg/bluemushrooms/blob/master/03.png)
+###Example:set date range(2017,2/1~2/10)
+![GITHUB](https://github.com/chelomg/JPNEXTW/blob/master/JPEXTW.png)

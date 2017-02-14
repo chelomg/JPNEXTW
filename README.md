@@ -2,7 +2,7 @@
 
 ###Set datetime range and you will get Japen / Taiwan Foreign Exchange Rate.
 
->It's is a python crawler practice. 
+>It's a python crawler practice. 
 
 >enviroment:python 2.7, jupyter 4.1
 
